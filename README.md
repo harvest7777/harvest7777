@@ -1,5 +1,5 @@
 <h3 align="center">Hello, I am Ryan.</h3>
-<p align="center">Just here to build cool things ^^ Most skilled in web development. SWE @ bazalu</p>
+<p align="center">Just here to build cool things, hopefully they're useful to someone! SWE @ bazalu</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harvest7777&card_width=500"/>
 </p>
