@@ -4,8 +4,4 @@
 <p>The first customer walks in.</p>
 <p>The bartender exclaims "Welcome! What would you like to drink?"</p>
 <p>The customer asks, "Do you know where the bathroom is?" and the bar explodes.</p>
-<p align="center">
-  <a href="https://duckies.dev" target="_blank">duckies.dev</a>
-</p>
-
 
